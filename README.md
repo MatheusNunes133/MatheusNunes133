@@ -1,7 +1,7 @@
 # Hello, my name is Matheus Nunes 👋 🇧🇷
 ### Welcome 😃
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=plastic&logo=github)](https://github.com/MatheusNunes133)
-[![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)](https://gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)](https://mail.google.com/mail/u/0/#search/matheusmiguel6%40gmail.com)
 
 ### Some information about me
 
