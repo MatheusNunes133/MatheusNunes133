@@ -1,4 +1,5 @@
 # Olá, eu me chamo Matheus Nunes Miguel 👋 🇧🇷
+![GitHub](https://img.shields.io/badge/-GitHub-blue?style=plastic&logo=github)
 
 <!--
 **MatheusNunes133/MatheusNunes133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
