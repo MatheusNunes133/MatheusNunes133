@@ -4,7 +4,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)](https://mail.google.com/mail/u/0/#search/matheusmiguel6%40gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-yellow?style=plastic&logo=instagram)](https://www.instagram.com/matheuss_nunes_/)
 ### Some information about me
-
+* Eighteen years old,Brazilian
+* technician informs 💻 🌎
+* studying systems analysis and development 🖥️ ✍️
+* Tech Lover ♥️
 <!--
 **MatheusNunes133/MatheusNunes133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
