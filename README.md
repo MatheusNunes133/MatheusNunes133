@@ -1,6 +1,6 @@
 # Olá, eu me chamo Matheus Nunes Miguel 👋 🇧🇷
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=plastic&logo=github)](https://github.com/MatheusNunes133)
-[![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)]()
+[![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)](https://gmail.com)
 ![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)
 
 <!--
