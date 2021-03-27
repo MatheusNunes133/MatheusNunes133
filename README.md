@@ -2,7 +2,7 @@
 ### Welcome 😃
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=plastic&logo=github)](https://github.com/MatheusNunes133)
 [![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)](https://mail.google.com/mail/u/0/#search/matheusmiguel6%40gmail.com)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-yellow?style=plastic&logo=instagram)](https://www.instagram.com/matheuss_nunes_/)
 ### Some information about me
 
 <!--
