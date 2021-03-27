@@ -1,6 +1,7 @@
 # Olá, eu me chamo Matheus Nunes Miguel 👋 🇧🇷
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=plastic&logo=github)
-![Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)
+
+[Gmail](https://img.shields.io/badge/-Gmail-orange?style=plastic&logo=gmail)
 
 <!--
 **MatheusNunes133/MatheusNunes133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
