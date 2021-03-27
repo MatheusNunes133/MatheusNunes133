@@ -1,4 +1,4 @@
-#Olá, eu me chamo Matheus Nunes Miguel :brazil:
+#Olá, eu me chamo Matheus Nunes Miguel
 
 <!--
 **MatheusNunes133/MatheusNunes133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
